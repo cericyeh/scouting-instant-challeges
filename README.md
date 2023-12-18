@@ -22,3 +22,7 @@ We at [Alameda Troops 2 and 7](https://www.alamedatroop2.com/home) have created 
 
 ### Silent Signal
 - [The Silent Signal (IC + Judging Sheet)](./challenges/silent_signal_IC.pdf)
+
+### Knot Binding
+- [Knot Binding IC](./challenges/knot_binding_ic.pdf)
+- [Knot Binding Judging Sheet](./challenges/knot_binding_scoresheet.pdf)
