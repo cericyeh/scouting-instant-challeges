@@ -6,7 +6,14 @@ To meet this need, we adapted [Destination Imagination's (DI) Instant Challenge]
 
 We at [Alameda Troops 2 and 7](https://www.alamedatroop2.com/home) have created several Scouting Instant Challenges that exercise creative application of Scouting skills to new and unexpected environments.  We have trialed multiple Scouting ICs and have found them to be fun and a good way to develop the attributes needed to meet the challenges of a constantly-changing world.
 
-## Instant Challenges
+## Contents
+- [Setup][#setup)
+- [Instant Challenges](#instant-challenges)
+- [Notes](#notes)
+
+## Setup <a id="setup"/>
+
+## Instant Challenges <a id="instant-challenges"/>
 
 ### Artifact Recovery
 - [Artifact Recovery IC](./challenges/artifact_recovery_IC.pdf)
@@ -28,10 +35,12 @@ We at [Alameda Troops 2 and 7](https://www.alamedatroop2.com/home) have created 
 - [Knot Binding Judging Sheet](./challenges/knot_binding_scoresheet.pdf)
 - Thanks to Frederikke Elnegaard for contributing this activity!
 
-## Notes
+## Notes <a id="notes"/>
+
 Following are some notes from our experiences running these exercises at Scout Troop meetings.  While every unit's context can be very different, we hope these will help you adapt these ICs for your needs.
 
-#### Loopholes
+#### Asking Questions and Loopholes
+At the heart of every IC are a set of possible loopholes that can be exploited by teams if they are read closely and are clever enough.  Judges running the challenge will need to remember to only answer within what is written on the rules-sheet: Everything else is allowed and nothing is forbidden (outside of ethical and safety limits).  Our goal is to encourage Scouts to develop creative workarounds and hacks to achieve their goals.
 
 #### Group Activity Issues: Noise and Peeking
 Two major issues arise from the fact that our Troops meet in a gym: The noise level and the ability for participants to peek over at other teams and copy their solutions.  Destination Imagination Instant Challenge sessions take place in rooms with just one team and the appraiser, which is infeasible for moderate-sized Troops and larger.  Indeed, it is likelier you will have to run all teams concurrently in the same shared space, such as a church gym or a school cafeteria.  The first and largest consequence of this is the noise level will be high, as you will have several teams trying to develop their solution at the same time.  Some DI ICs are performance based, and these cannot work as well in a noisy environment.  Possible solutions to this include:
