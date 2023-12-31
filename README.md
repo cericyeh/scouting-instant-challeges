@@ -7,11 +7,13 @@ To meet this need, we adapted [Destination Imagination's (DI) Instant Challenge]
 We at [Alameda Troops 2 and 7](https://www.alamedatroop2.com/home) have created several Scouting Instant Challenges that exercise creative application of Scouting skills to new and unexpected environments.  We have trialed multiple Scouting ICs and have found them to be fun and a good way to develop the attributes needed to meet the challenges of a constantly-changing world.
 
 ## Contents
-- [Setup][#setup)
+- [Setup](#setup)
 - [Instant Challenges](#instant-challenges)
 - [Notes](#notes)
 
 ## Setup <a id="setup"/>
+
+
 
 ## Instant Challenges <a id="instant-challenges"/>
 
@@ -50,3 +52,6 @@ Two major issues arise from the fact that our Troops meet in a gym: The noise le
 - Have ICs where [the goal is to stay silent](./challenges/silent_signal_IC.pdf).
 
 The second is peeking: If one team has developed a novel solution, other teams will observe them and implement that solution.  Dealing with this can be trickier, as it requires the judges to keep an eye on their team and see if they are simply copying their neighbor's solution.  This is mitigated by the fact that our scoring rubrics favor good teamwork and leadership, and oftentimes a team can rank highly without actually completing the task by scoring well on those attributes.
+
+#### Materials
+Since DI ICs run one team at a time, they can use a gamut of materials and area preparations that may not be practical for Troop-wide event with 5+ teams running concurrently.  For our ICs, we have focused on using the Scouting Ten Essentials as their base materials for the event, with occasional supplementation from Troop camping equipment, such as lashing poles and rope.  The major benefit of using their Ten Essentials as the materials for the event is it forces Scouts to familiarize with their kit and to become creative with secondary uses.  It also encourages Scouts to have their Ten Essentials packs with them.
