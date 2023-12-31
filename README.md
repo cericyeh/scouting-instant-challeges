@@ -15,18 +15,20 @@ We at [Alameda Troops 2 and 7](https://www.alamedatroop2.com/home) have created 
 
 We now give an example ruleset and run-through for an Instant Challenge.  This example challenge takes place in an area with a 10'x10' square, marked off by tape.  A team, usually a Patrol, is given a rule-sheet that describes the challenge, rules, and scoring:
 
-  Your goal is to build the tallest structure using only your Ten Essentials packs and gear inside.  You will have five minutes to devise and to build the structure.  At the end of the five minutes, no Scouts may be inside the square and touching the structure.  You will be scored based on how well you worked as a team, the creativity of your solution, and the height of the structure.  Height is measured from the ground to the tallest point on the structure.  
-  
-Scoring
-- 1 pt for every inch of height.
-- Up to 20 points for how well your team communicated with each other.
-- Up to 10 points for getting input from every team member.
-- Up to 10 points for leadership, if the team is able to develop a plan and members take initiative.
-- Up to 10 points for the creativity of the solution.
+>  Your goal is to build the tallest structure using only your Ten Essentials packs and gear inside.  You will have five minutes to devise and to build the structure, which must be built inside the square.  At the end of the five minutes, no Scouts may be inside the square and touching the structure.  You will be scored based on how well you worked as a team, the creativity of your solution, and the height of the structure.  Height is measured from the ground to the tallest point on the structure.
+> 
+>Scoring
+>- 1 pt for every inch of height.
+>- Up to 20 points for how well your team communicated with each other.
+>- Up to 10 points for getting input from every team member.
+>- Up to 10 points for leadership, if the team is able to develop a plan and members take initiative.
+>- Up to 10 points for the creativity of the solution.
 
-A judge (or the appraiser from the DI world) will be present to answer questions and to score the team based on the criteria.  Because of the complexity of the challenges, each team has at least one judge.
+A judge (or the appraiser from the DI world) will be present to answer questions and to score the team based on the criteria.  Because of the complexity of the challenges, each team has at least one judge.  The team may ask the judge questions at any point during the five minutes
 
-There are two key essentials for ICs: Novelty and hacks.  Novelties come from the fact that the participants have never seen this challenge before, and learning to adapt ``on-the-fly'' is 
+There are two key essentials for ICs, **novelty** and **hacks**.  To ensure the former, the challenge must be new to each participant, as the purpose of the IC is to learn how to adapt *on-the-fly*.  Unfortunately, this also means once an IC is run with a Troop, it cannot be reused without major changes to the ruleset.
+
+Hacks come from workarounds and loopholes engineered into the rules.  For example, nothing in the example's rules says Scouts cannot be outside the square but supporting the structure using cord or other items from their Ten Essentials.  There is also no rule stating the tower needs to be in the center of the square, which can be exploited for their needs.  The judge should answer only to what the rules state, but not offer any hacks or solutions.
 
 ## Instant Challenges <a id="instant-challenges"/>
 These are the Instant Challenges we have run for our Troop meetings.  Each entry lists the rules-sheet given to each team and the scoring sheet for the judges.
