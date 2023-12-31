@@ -31,7 +31,13 @@ We at [Alameda Troops 2 and 7](https://www.alamedatroop2.com/home) have created 
 ## Notes
 Following are some notes from our experiences running these exercises at Scout Troop meetings.  While every unit's context can be very different, we hope these will help you adapt these ICs for your needs.
 
-### Loopholes
+#### Loopholes
 
-### Group Activity Issues: Noise and Peeking
-Two major issues arise from the fact that our Troops meet in a gym: The noise level and the ability for participants to peek over at other teams and copy their solutions.  Destination Imagination Instant Challenge sessions take place in rooms with just one team and the appraiser, which is infeasible for moderate-sized Troops and larger.  Indeed, it is likelier you will have to run all teams concurrently in the same shared space, such as a church gym or a school cafeteria.  The first and largest consequence of this is the noise level will be high, as you will have several teams trying to develop their solution at the same time.  Some DI ICs are performance based, and these cannot work as well in a noisy environment.
+#### Group Activity Issues: Noise and Peeking
+Two major issues arise from the fact that our Troops meet in a gym: The noise level and the ability for participants to peek over at other teams and copy their solutions.  Destination Imagination Instant Challenge sessions take place in rooms with just one team and the appraiser, which is infeasible for moderate-sized Troops and larger.  Indeed, it is likelier you will have to run all teams concurrently in the same shared space, such as a church gym or a school cafeteria.  The first and largest consequence of this is the noise level will be high, as you will have several teams trying to develop their solution at the same time.  Some DI ICs are performance based, and these cannot work as well in a noisy environment.  Possible solutions to this include:
+
+- Avoid performance-based ICs.
+- Have each team perform one-at-a-time.
+- Have ICs where [the goal is to stay silent](./challenges/silent_signal_IC.pdf).
+
+The second is peeking: If one team has developed a novel solution, other teams will observe them and implement that solution.  Dealing with this can be trickier, as it requires the judges to keep an eye on their team and see if they are simply copying their neighbor's solution.  This is mitigated by the fact that our scoring rubrics favor good teamwork and leadership, and oftentimes a team can rank highly without actually completing the task by scoring well on those attributes.
