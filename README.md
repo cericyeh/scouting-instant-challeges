@@ -45,6 +45,12 @@ These are the Instant Challenges we have run for our Troop meetings.  Each entry
 - [Hamster Space Program IC](./challenges/hsp_IC.pdf)
 - [Hamster Space Program Judging Sheet](./challenges/hsp_judging_sheet.pdf)
 
+#### Signaling Exercise
+- [Signaling Challenge Rules](./challenges/Signaling Challenge.docx)
+- [Sender Sheet](./challenges/Signaling Challenge Sender Sheet.docx)
+- [Receiver Sheet](./challenges/Signaling Challenge Receiver Sheet.docx)
+- [Wordlist](./challenges/Signaling Challenge Wordlist.docx)
+
 ### Silent Signal
 - [The Silent Signal (IC + Judging Sheet)](./challenges/silent_signal_IC.pdf)
 
